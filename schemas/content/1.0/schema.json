@@ -110,12 +110,6 @@
     "variants": {
       "type": "object"
     },
-    "accessRules": {
-      "type": "array",
-      "items": {
-        "type": "object"
-      }
-    },
     "config": {
       "type": "object"
     },
